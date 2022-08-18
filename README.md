@@ -41,7 +41,14 @@ Rad je implementiran u sklopu jupyter svesaka i pre pokretanja samog koda neopho
 
 [DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/abs/1910.01108)
 
+[The Illustrated BERT](https://jalammar.github.io/illustrated-bert/)
+
+[A Visual Guide to Using BERT for the First Time](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
+
 [Smaller, faster, cheaper, lighter: Introducing DistilBERT, a distilled version of BERT](https://medium.com/huggingface/distilbert-8cf3380435b5)
 
 [A Beginner’s Guide to Exploratory Data Analysis (EDA) on Text Data](https://www.analyticsvidhya.com/blog/2020/04/beginners-guide-exploratory-data-analysis-text-data/)
+
+[Hugging Face Transformers: Fine-tuning DistilBERT for Binary Classification Tasks](https://towardsdatascience.com/hugging-face-transformers-fine-tuning-distilbert-for-binary-classification-tasks-490f1d192379)
+
 
