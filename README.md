@@ -2,7 +2,7 @@
 
 Projekat ima za cilj da predstavi DistilBERT model mašinskog učenja koji se koristi za obradu prirodnog jezika (NLP) i demonstrira primenu istog prilikom analize sentimenta teksta.
 
-Ovaj rad predstavlja završni projekat kursa Mašinsko učenje 2022. godine na [Matematičkom fakultetu](http://www.matf.bg.ac.rs/), [Univerziteta u Beogradu](https://bg.ac.rs/).
+Ovaj rad predstavlja završni projekat kursa [Mašinsko učenje](http://ml.matf.bg.ac.rs) 2022. godine na [Matematičkom fakultetu](http://www.matf.bg.ac.rs/), [Univerziteta u Beogradu](https://bg.ac.rs/).
 
 **Autori:** Jelena Radojević (broj indeksa: 1007/2021) i Ilija-Petar Milić (broj indeksa: 1053/2021)
 
