@@ -35,11 +35,11 @@ Rad je implementiran u sklopu jupyter svesaka i pre pokretanja samog koda neopho
 
 ## <p align = "center">Literatura:</p> 
 
-[Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+[Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 
-[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805v2)
+[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805v2.pdf)
 
-[DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/abs/1910.01108)
+[DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/pdf/1910.01108.pdf)
 
 [The Illustrated BERT](https://jalammar.github.io/illustrated-bert/)
 
