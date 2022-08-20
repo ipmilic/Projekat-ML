@@ -21,7 +21,7 @@ Podaci sa kojima se radi predstavljaju komentare sa stranice [*Wikipedia*](https
 
 ### 03 - Model
 
-Na samom početku obavljena je odgovarajuća priprema i podela podataka na koji će se koristiti prilikom treninga i evaluacije modela. U nastavku je definisana arhitektura DistilBERT modela konfigurisanog za problem analize sentimenta teksta, odnosno u ovom slučaju klasifikaciju neprikladnih komentara. U nastavku se model trenira i vrši se evaluacija njegovih performansi uz analizu dobijenih rezultata.
+Na samom početku obavljena je odgovarajuća priprema i podela podataka koji će se koristiti prilikom treninga i evaluacije modela. U nastavku je definisana arhitektura DistilBERT modela konfigurisanog za problem analize sentimenta teksta, odnosno u ovom slučaju klasifikaciju neprikladnih komentara. U nastavku se model trenira i vrši se evaluacija njegovih performansi uz analizu dobijenih rezultata.
 
 
 ## <p align = "center">Pokretanje:</p> 
