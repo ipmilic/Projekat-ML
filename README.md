@@ -12,7 +12,7 @@ Ovaj rad predstavlja završni projekat kursa [Mašinsko učenje](http://ml.matf.
 
 ### 01 - Teorija
 
-Na samom početku uvode se osnovni koncepti: mehanizam pažnje, enkoder i transformeri, koji čine temelj za dalji rad. U nastavku, oslanjajući se na prethodno definisane pojmove, formalno se uvodi [BERT](https://en.wikipedia.org/wiki/BERT_(language_model)) (Bidirectional Encoder Representations from Transformers) model i opisuje način na koji on funkcioniše. Definiše se opšti postupak destilacije modela mašinskog učenja i prikazuje njegova primena na BERT model što za rezultat daje DistilBERT.
+Na samom početku uvode se osnovni koncepti: mehanizam pažnje, enkoder i transformeri, koji čine temelj za dalji rad. U nastavku, oslanjajući se na prethodno definisane pojmove, formalno se uvodi [BERT](https://en.wikipedia.org/wiki/BERT_(language_model)) (Bidirectional Encoder Representations from Transformers) model i opisuje način na koji on funkcioniše. Definiše se opšti postupak destilacije modela mašinskog učenja i prikazuje njegova primena na BERT model što za rezultat daje DistilBERT model.
 
 ### 02 - Analiza podataka
 
